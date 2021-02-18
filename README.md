@@ -4,7 +4,7 @@
 
 [Mapa Mental I](https://github.com/sofiasalazarc/MINERIA-DE-DATOS/blob/main/MapaMental_1_1679700.pdf)
 
-[Tarea Bases de Datos](https://github.com/sofiasalazarc/MINERIA-DE-DATOS/blob/main/Ej1_BasesDatos_Equipo_6.pdf)
+[Ejercicio de Bases de datos](https://github.com/Andreschpena/Mineria-de-datos/blob/main/Ej1_BasesDatos_Equipo_6.pdf)
 
 ## Fase II
 
