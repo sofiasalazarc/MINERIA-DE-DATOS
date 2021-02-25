@@ -6,7 +6,7 @@
 
 [Ejercicio de Bases de datos](https://github.com/Andreschpena/Mineria-de-datos/blob/main/Ej1_BasesDatos_Equipo_6.pdf)
 
-[Ejercicios de Python (basicos)]()
+[Ejercicios de Python (basicos)](https://github.com/sofiasalazarc/MINERIA-DE-DATOS/blob/main/Ej_Python_1679700.ipynb)
 
 ## Fase II
 
