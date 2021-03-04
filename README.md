@@ -10,6 +10,8 @@
 
 [Ejercicios Limpieza Python](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo6.ipynb)
 
+[Primer Avance PIA](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo6.ipynb)
+
 ## Fase II
 
 
