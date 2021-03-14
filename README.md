@@ -14,6 +14,9 @@
 
 ## Fase II
 
+[Presentación Técnica de Minería](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Presentacion_Metricas-de-Evaluacion_Equipo6.pdf)
+
+[Calificaciones Mini Examen](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Calificacion_Metricas-de-Evaluacion_Equipo6.pdf)
 
 
 ## Fase III
