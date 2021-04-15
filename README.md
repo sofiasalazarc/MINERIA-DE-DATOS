@@ -20,4 +20,8 @@
 
 [Avance PIA II](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo6.ipynb)
 
+[Practica 2](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Practica%202.ipynb)
+
+
+
 ## Fase III
