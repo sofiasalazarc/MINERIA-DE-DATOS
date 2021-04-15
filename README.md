@@ -18,5 +18,6 @@
 
 [Calificaciones Mini Examen](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Calificacion_Metricas-de-Evaluacion_Equipo6.pdf)
 
+[Avance PIA II](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo6.ipynb)
 
 ## Fase III
